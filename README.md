@@ -1,2 +1,11 @@
 # stock-price-prediction-lstm
-Stock price prediction using LSTM networks on Saudi market data
+This project uses deep learning (LSTM) to predict stock price trends of Saudi companies using historical data.
+
+## Tools Used
+- TensorFlow
+- Pandas
+- Matplotlib
+
+## Features
+- Forecasts stock trends
+- Evaluates model performance using MAE, RMSE
